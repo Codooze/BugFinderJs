@@ -8,5 +8,4 @@ function reverseNumber(number) {
 
     return reversedNumber;
 }
-
 console.log(reverseNumber(12345)); // Expected output: '54321'
